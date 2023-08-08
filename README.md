@@ -1,2 +1,2 @@
-# Avaliacao_SQL
-Avaliação para SQL MYSQL
+# Avaliacao_SQL - Enrico
+Avaliação para SQL MYSQL, fluxograma e redação
